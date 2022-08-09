@@ -1,0 +1,4 @@
+BLOCK_TOUCH {
+	GameOver()
+	ReviveEntity(pos = { x = 7.0, y = 1.0, z = 2.0 })
+}
